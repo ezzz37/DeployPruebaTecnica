@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: AppNotasApi
+    env: dotnet
+    plan: free
+    rootDir: backend/src/AppNotas.Api
+    buildCommand: dotnet build
+    startCommand: dotnet AppNotas.Api.dll

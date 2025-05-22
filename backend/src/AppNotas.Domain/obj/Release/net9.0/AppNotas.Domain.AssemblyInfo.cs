@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppNotas.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ddeca8550e650bba7a1ac06c84a546f9db5526")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb8386a4be7cfc3b79465462662fdfc7fd88736")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppNotas.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppNotas.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
