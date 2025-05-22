@@ -10,7 +10,7 @@ import {
 } from '@heroicons/react/24/outline'
 import axios from 'axios'
 
-const API_BASE = 'http://localhost:5274/api'
+const API_BASE  = 'https://appnotasezequielpretti-c6heg7bfcpa5h3d6.brazilsouth-01.azurewebsites.net/api'
 
 export default function App() {
     const [token, setToken] = useState('')
@@ -675,7 +675,7 @@ export default function App() {
                         </div>
                     </div>
                 )}
-            ></main>
+            </main>
         </div>
     )
 }
