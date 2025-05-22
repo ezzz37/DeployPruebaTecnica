@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A87F5365-EFA1-4C99-81CA-CC9B6D04CCEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppNotas.Api", "src\AppNotas.Api\AppNotas.Api.csproj", "{DA5B42EB-4643-4AB1-B2A8-BE77A22E1F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5B42EB-4643-4AB1-B2A8-BE77A22E1F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5B42EB-4643-4AB1-B2A8-BE77A22E1F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5B42EB-4643-4AB1-B2A8-BE77A22E1F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5B42EB-4643-4AB1-B2A8-BE77A22E1F99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DA5B42EB-4643-4AB1-B2A8-BE77A22E1F99} = {A87F5365-EFA1-4C99-81CA-CC9B6D04CCEF}
+	EndGlobalSection
+EndGlobal

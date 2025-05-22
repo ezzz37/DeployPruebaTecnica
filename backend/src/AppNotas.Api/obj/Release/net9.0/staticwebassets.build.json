@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O5trJfhFfazB3fUh2t6wraqvpSDpYtrgpKXu/8umBiw=",
+  "Source": "AppNotas.Api",
+  "BasePath": "_content/AppNotas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

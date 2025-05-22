@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AppNotas.Domain/1.0.0": {
+        "runtime": {
+          "AppNotas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppNotas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

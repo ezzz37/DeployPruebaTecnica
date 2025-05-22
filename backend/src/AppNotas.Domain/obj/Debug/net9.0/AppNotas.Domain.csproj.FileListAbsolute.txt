@@ -1,0 +1,12 @@
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\bin\Debug\net9.0\AppNotas.Domain.deps.json
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\bin\Debug\net9.0\AppNotas.Domain.dll
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\bin\Debug\net9.0\AppNotas.Domain.pdb
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\AppNotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\AppNotas.Domain.AssemblyInfoInputs.cache
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\AppNotas.Domain.AssemblyInfo.cs
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\AppNotas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\AppNotas.Domain.sourcelink.json
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\AppNotas.Domain.dll
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\refint\AppNotas.Domain.dll
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\AppNotas.Domain.pdb
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Domain\obj\Debug\net9.0\ref\AppNotas.Domain.dll

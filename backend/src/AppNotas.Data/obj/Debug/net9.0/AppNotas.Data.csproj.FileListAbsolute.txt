@@ -1,0 +1,16 @@
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\bin\Debug\net9.0\AppNotas.Data.deps.json
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\bin\Debug\net9.0\AppNotas.Data.dll
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\bin\Debug\net9.0\AppNotas.Data.pdb
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\bin\Debug\net9.0\AppNotas.Domain.dll
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\bin\Debug\net9.0\AppNotas.Domain.pdb
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.Data.csproj.AssemblyReference.cache
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.Data.AssemblyInfoInputs.cache
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.Data.AssemblyInfo.cs
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.Data.csproj.CoreCompileInputs.cache
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.Data.sourcelink.json
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.E0F106AB.Up2Date
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.Data.dll
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\refint\AppNotas.Data.dll
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\AppNotas.Data.pdb
+C:\Users\ezzz\Desktop\AppNotas\backend\src\AppNotas.Data\obj\Debug\net9.0\ref\AppNotas.Data.dll
